@@ -1,12 +1,15 @@
 ### Hello! Welcome to my profile! 👋
 ##  I'm Laís Carvalho, student of programation. 👩‍🎓👩‍💻 
 
+
 <div align="center">
     <a https://github.com/LaisMatos/LaisMatos">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaisMatos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaisMatos&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
+                                                                                                                                                    
+<hr>                                                                                                                                               
+                                                                                                                                                       
  <div style="display: inline_block"><br>
     <img align="center" alt="Lais-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Lais-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -17,7 +20,7 @@
     <img align="center" alt="Lais-MySQL"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">                  
 </div>
  
- ##
+
  
 - 🌱 I’m currently learning Laravel
 - 🎓 I'm  doing Systems development at SENAI and UNIVESP
