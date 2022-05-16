@@ -19,7 +19,7 @@
  
  ##
  
-- 🌱 I’m currently learning Laravel, PHP, JavaScript and Java
+- 🌱 I’m currently learning Laravel
 - 🎓 I'm  doing Systems development at SENAI and UNIVESP
 - 🌎 I live in São Paulo - Brazil 🇧🇷
 - 👩‍🏫 I'm supporter of programming teaching for children and young people
