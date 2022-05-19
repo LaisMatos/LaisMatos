@@ -1,8 +1,8 @@
 ### Hello! Welcome to my profile! 👋
 ##  I'm Laís Carvalho, student of programation. 👩‍🎓👩‍💻 
 
-
-<!--<div align="center">
+<div>
+    <div align="center">
     <a https://github.com/LaisMatos/LaisMatos">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaisMatos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaisMatos&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -18,7 +18,7 @@
     <img align="center" alt="Lais-Laravel"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
     <img align="center" alt="Lais-Java"  height="30" width="40" src="https://cdn.wallpapersafari.com/95/49/8OFpch.png">
     <img align="center" alt="Lais-MySQL"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">                  
-</div>-->
+</div>
  
 
  
